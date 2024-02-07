@@ -1,5 +1,7 @@
 # Silly Status
 
+![Image](./Panel_White_Status.png)
+
 Silly Status is an advanced monitoring bot designed to oversee the operational status of the "Silly-Bot" within a Discord server. By tracking the target bot's presence and broadcasting updates through designated channels, Silly Status serves as an essential tool for maintaining awareness of the bot's availability and ensuring prompt notifications in case of downtime.
 
 <a href="https://twitch.tv/sillysoon" target="_blank">![Static Badge](https://img.shields.io/badge/SillySoon-9145ff?style=for-the-badge&logo=twitch&logoColor=white)</a>
